@@ -384,12 +384,7 @@ Hospitals Displayed On Map
 
 ---
 
-#  Security Notes
 
-- Do NOT upload `.env` publicly
-- Protect API keys
-- Restrict Google Maps API usage
-- Never expose secret backend keys
 
 ---
 
@@ -405,7 +400,7 @@ Hospitals Displayed On Map
 
 ---
 
-#  Hackathon Value
+
 
 RoadSOS focuses on:
 - Public safety
@@ -419,10 +414,10 @@ RoadSOS focuses on:
 
 #  Developed For
 
-- Hackathons
-- Smart City Projects
+
+- Smart City
 - Innovation Challenges
-- Student Portfolio Projects
+- Student Portfolio Project
 
 ---
 
